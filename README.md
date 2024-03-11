@@ -1,4 +1,6 @@
+This code is from the examples section in the Arduino IDE
 
+The wiring diagram pertains to a standard tilt switch, requiring a 10k resistor for optimal functionality. Alternatively, you can opt for the KY020 module-type tilt switch, which comes equipped with a built-in resistor, eliminating the need for an additional one.
 
 **Step 1: Gather Materials and Components**
 Make sure you have all the necessary materials and components:
